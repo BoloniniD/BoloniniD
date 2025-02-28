@@ -2,9 +2,7 @@
 **Backend Engineer, 4+ years of experience**
 
 [dk.bolonin@gmail.com](mailto:dk.bolonin@gmail.com) |
-[LinkedIn](https://www.linkedin.com/in/boloninid/) |
-[GitHub](https://github.com/BoloniniD) |
-[+44 7493 288020](tel:+447493288020)
+[LinkedIn](https://www.linkedin.com/in/boloninid/)
 
 ---
 
