@@ -6,4 +6,4 @@
 - ✍️ Actively contributing to open source (e.g., ClickHouse), author of a blog post on ClickHouse official blog, winner of Sber hackathon, and ICAgile Certified
 - 💡 Fascinated by Artificial Intelligence/Machine Learning and their applications
 
-You can find my full CV [here](https://github.com/BoloniniD/BoloniniD/blob/master/Denis_Bolonin_Software_Engineer_CV_2025.pdf)
+You can find my full CV [here](https://github.com/BoloniniD/BoloniniD/blob/master/Denis_Bolonin_Software_Engineer_CV_2026.pdf)
