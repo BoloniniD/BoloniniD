@@ -8,5 +8,6 @@
 Education:
 - Bachelor's Degree Applied Mathematics and Informatics, Distributed systems, HSE University
 - Master's Degree Computer Science, Software and Data Engineering stream, Queen Mary University of London
+- Master's Degree Master of Data Science, HSE University
 
 You can find my full CV [here](https://github.com/BoloniniD/BoloniniD/blob/master/Denis_Bolonin_Software_Engineer_CV_2026.pdf)
