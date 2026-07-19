@@ -2,7 +2,7 @@
 
 - :computer: **Senior Software Engineer** with 5+ years of experience, currently at digital.sfpe, previously Python Backend Engineer at Sber and C++ Backend Developer at ClickHouse (opensource DBMS)
 - 🚀 Passionate about high-performance backend systems and distributed technologies
-- 💡 Applied ML researcher - parameter-efficient fine-tuning, multimodal LLMs, medical imaging (see MSc thesis projects below)
+- 💡 Applied ML researcher - parameter-efficient fine-tuning, multimodal LLMs, medical imaging (see MSc thesis and research project below)
 - ✍️ Actively contributing to open source (e.g., ClickHouse), author of a blog post on ClickHouse official blog, winner of Sber hackathon, and ICAgile Certified
 
 Education:
